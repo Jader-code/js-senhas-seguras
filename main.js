@@ -22,7 +22,10 @@ function aumentaTamanho() {
     geraSenha();
 }
 
-const campoSenha = document.querySelector('campo-senha');
+const campoSenha = document.querySelector('#campo-senha');
+const checkbox = document.querySelectorAll('.checkbox');
+
+for (1 = 0, i < )
 
 const letrasMaiusculas = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 geraSenha();
